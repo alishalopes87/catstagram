@@ -1,8 +1,11 @@
 # Catstagram
+# <img src="defaultCat.gif">
+
+To have this app running on your local computer, please follow the below steps:
 
 ### Clone the repo:
 ```sh
-git clone https://github.com/hyendler/catstagram.git
+git clone https://github.com/alishalopes87/catstagram.git
 ```
 
 Check what versions of node + npm you are running:
