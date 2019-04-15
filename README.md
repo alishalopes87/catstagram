@@ -37,7 +37,3 @@ npm start
 Ctrl + C
 
 Once Webpack has finished building, go to [http://localhost:9000/](http://localhost:9000/).
-
-### Seeing solution files in the browser:
-
-Go to webpack.config.js and follow instructions in the comments to switch out the entry point to in order to see different solutions reflected in the browser.  If you change the entry point, you will need to stop and restart the server.
