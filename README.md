@@ -1,16 +1,9 @@
-# Intro to React + Redux
-
-## Setup
+# Catstagram
 
 ### Clone the repo:
 ```sh
 git clone https://github.com/hyendler/catstagram.git
 ```
-
-If you would like to save your work on your own GitHub repo, fork it first, then clone the fork.
-
-### Set up your environment
-This workshop uses npm 5.1.0 and node v8.11.3. If the start instructions don't run below, you might need to install a new verison of node.
 
 Check what versions of node + npm you are running:
 ```sh
